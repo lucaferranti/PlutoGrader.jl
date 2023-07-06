@@ -1,0 +1,13 @@
+name = "PlutoGrader"
+uuid = "5e01e182-cc8e-4f07-9d5c-10e469e58e66"
+authors = ["Luca Ferranti"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.9"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
