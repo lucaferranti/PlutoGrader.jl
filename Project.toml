@@ -1,10 +1,20 @@
 name = "PlutoGrader"
 uuid = "5e01e182-cc8e-4f07-9d5c-10e469e58e66"
 authors = ["Luca Ferranti"]
-version = "1.0.0-DEV"
+version = "0.1.0"
+
+[deps]
+HypertextLiteral = "ac1192a8-f4b3-4bfe-ba22-af5b92cd3ab2"
+Markdown = "d6f4376e-aef5-505a-96c1-9c027394607a"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+PlutoTeachingTools = "661c6b06-c737-4d37-b85c-46df65de6f69"
+PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [compat]
 julia = "1.9"
+Pluto = "0.19.29"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
