@@ -5,8 +5,6 @@
 [![Build Status](https://github.com/lucaferranti/PlutoGrader.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/lucaferranti/PlutoGrader.jl/actions/workflows/CI.yml?query=branch%3Amain)
 [![Coverage](https://codecov.io/gh/lucaferranti/PlutoGrader.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/lucaferranti/PlutoGrader.jl)
 
-## NOTE! VERY VERY (VERY) WIP!!
-
 `PlutoGrader.jl` is inspired by [nbgrader](https://nbgrader.readthedocs.io/en/stable/) and the idea is to make it easy to prepare and grade exercises / exams in Pluto.
 
 ## Quick Start
