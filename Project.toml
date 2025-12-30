@@ -1,7 +1,7 @@
 name = "PlutoGrader"
 uuid = "5e01e182-cc8e-4f07-9d5c-10e469e58e66"
-authors = ["Luca Ferranti"]
 version = "0.1.0"
+authors = ["Luca Ferranti"]
 
 [deps]
 HypertextLiteral = "ac1192a8-f4b3-4bfe-ba22-af5b92cd3ab2"
@@ -13,8 +13,9 @@ Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [compat]
-julia = "1.9"
+HypertextLiteral = "0.9"
 Pluto = "0.19.29"
+julia = "1.9"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
